@@ -1,7 +1,7 @@
 # Geocoding Proxy Service
 
 A simple proxy service that can fetch latitude and longitude for a given address using third party geocoding services (such as HERE, Geonames, Google). 
-One of the services act as primary service and the remaining are back-up service. 
+One of the services act as primary service (HERE) and the remaining are back-up service (Geonames and Google). 
 Script follows a RESTful HTTP Interface and uses JSON for data serialization.
 
 ## Procedure
