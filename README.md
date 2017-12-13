@@ -44,4 +44,4 @@ For example:
 http://localhost:8880/?address=2500%20University%20Drive%20NW%20Calgary
 {"lat": 51.07462, "lng": -114.12839}
 ```
-The function results {"lat": 51.07462, "lng": -114.12839} for the address typed (2500 University Drive NW Calgary)
+The function returns {"lat": 51.07462, "lng": -114.12839} for the address typed (2500 University Drive NW Calgary)
