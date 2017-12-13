@@ -17,7 +17,7 @@ Getting credentials for service providers:
 
 # How to Run and Use:
 
-Start the server: Server can be started by running 'server.py' code in the repository. Default server is 'localhost' and default port is 8800. The user can change the port number by using the optional arguments `--port`.
+Start the server: Server can be started by running 'server.py' code in the repository. Default server is 'localhost' and default port is 8800. Optionally, the user can change the port number by using the argument `--port` as shown below.
 
 ```
 ./server
